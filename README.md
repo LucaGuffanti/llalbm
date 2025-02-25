@@ -64,9 +64,9 @@ name of the example you find right here.
 
 ### [7_FlatBottomFoil](/examples/7_FlatBottom)
 
-### [8_1NACAProfileFlight](/examples/8_1NACAProfileFlight.cpp)
+### [8_1_NACAProfileFlight](/examples/8_1_NACAProfileFlight.cpp)
 
-### [8_2NACAProfileTakeOff](/examples/8_2_NACAProfileTakeOff.cpp)
+### [8_2_NACAProfileTakeOff](/examples/8_2_NACAProfileTakeOff.cpp)
 
 ### [9_Conduct](/examples/9_Conduct.cpp)
 
